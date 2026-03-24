@@ -28,3 +28,8 @@ server/.env
 *.njsproj
 *.sln
 *.sw?
+
+API_DOCUMENTATION.md
+DEMO_GUIDE.md
+QUICKSTART.md
+README.md
